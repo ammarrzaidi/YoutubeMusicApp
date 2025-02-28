@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\YoutubeMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD72D6D-034A-B85F-8561-29FC8E87C235}|YoutubeMusic.csproj|d:\\projects\\youtubemusic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DD72D6D-034A-B85F-8561-29FC8E87C235}|YoutubeMusic.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD72D6D-034A-B85F-8561-29FC8E87C235}|YoutubeMusic.csproj|d:\\projects\\youtubemusic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD72D6D-034A-B85F-8561-29FC8E87C235}|YoutubeMusic.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\projects\\YoutubeMusic\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\projects\\YoutubeMusic\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:43:33.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design - Afar (Djibouti)]",
+              "DocumentMoniker": "D:\\projects\\YoutubeMusic\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\projects\\YoutubeMusic\\Form1.cs [Design - Afar (Djibouti)]",
+              "RelativeToolTip": "Form1.cs [Design - Afar (Djibouti)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:43:17.893Z",
+              "EditorCaption": " [Design - Afar (Djibouti)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
