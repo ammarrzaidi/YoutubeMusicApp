@@ -1,0 +1,12 @@
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\YoutubeMusic.exe
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\WebView2Loader.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\WebView2Loader.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\runtimes\win-arm64\native\WebView2Loader.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\YoutubeMusic.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\YoutubeMusic.deps.json
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\YoutubeMusic.runtimeconfig.json
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\YoutubeMusic.pdb
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\aa-DJ\YoutubeMusic.resources.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.Core.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.WinForms.dll
+D:\projects\YoutubeMusic\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.Wpf.dll
