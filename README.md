@@ -15,14 +15,12 @@ This is a simple Windows Forms application for playing YouTube Music. Built usin
 2. Double-click the .exe to launch the application.
 
 ## Development
-
-1. Prerequisites
 - .NET SDK (latest version)
 - Visual Studio 2022
 - WebView2 Runtime
 
 ## License
-MIT License
+This project is open-source and available for educational and portfolio purposes.
 
 ## Contributing
 Feel free to submit pull requests or open issues if you encounter bugs!
