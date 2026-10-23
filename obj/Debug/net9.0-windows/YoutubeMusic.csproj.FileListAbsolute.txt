@@ -1,4 +1,0 @@
-D:\projects\YoutubeMusic\obj\Debug\net9.0-windows\YoutubeMusic.GeneratedMSBuildEditorConfig.editorconfig
-D:\projects\YoutubeMusic\obj\Debug\net9.0-windows\YoutubeMusic.AssemblyInfoInputs.cache
-D:\projects\YoutubeMusic\obj\Debug\net9.0-windows\YoutubeMusic.AssemblyInfo.cs
-D:\projects\YoutubeMusic\obj\Debug\net9.0-windows\YoutubeMusic.csproj.CoreCompileInputs.cache
